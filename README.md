@@ -1,8 +1,8 @@
 # Simple Message Spamming Script, written in C
 
-A simple Windows console tool that automatically types a user input repeatedly into the active window. It uses `SendInput()` and listens for `Backspace` and `ESC` keys to stop or paus (Currently hardcoded in, no option to change the keys).
----
 
+---
+#### A simple Windows console tool that automatically types a user input repeatedly into the active window. It uses `SendInput()` and listens for `Backspace` and `ESC` keys to stop or paus (Currently hardcoded in, no option to change the keys).
 ## 🧰 Features
 
 - Types your message repeatedly with a user-defined delay.
